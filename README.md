@@ -2,7 +2,7 @@
 - HALゲーム学科・三校合同コンテスト作品（一年後期）🏆技術力賞
 - 2Dスクロールアクション
 - Unity Visual Scripting使用<br><br>
-## 操作方法
+## 🎮 操作方法
 **メニューでの操作**<br>
 - ↑ / ↓ ：　選択する<br>
 - Space：　エントリーする
@@ -13,6 +13,6 @@
 - Space：　ジャンプ  
 - Z キー　：投げ攻撃  
 - X キー　：石の種類を切り替え<br><br>
-## スクリーンショット
+## 📷 スクリーンショット
 <img width="373" height="210" alt="スクリーンショット 2026-10-07 140301" src="https://github.com/user-attachments/assets/d5aba6b5-ca2a-440e-8133-b4a91ac03d44" />
 <img width="373" height="210" alt="スクリーンショット 2026-10-07 140404" src="https://github.com/user-attachments/assets/93ec2cd0-e0ab-438e-915f-efcf302a4be2" />
