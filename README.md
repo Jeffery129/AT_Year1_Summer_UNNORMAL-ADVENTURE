@@ -1,5 +1,5 @@
 # UNNORMAL-ADVENTURE
-- HALゲーム学科・三校合同コンテスト作品（一年後期）🏆技術力賞
+- HALゲーム学科・三校合同コンテスト作品（一年前期）🏆技術力賞
 - 2Dスクロールアクション
 - Unity Visual Scripting使用<br><br>
 ## 🎮 操作方法
