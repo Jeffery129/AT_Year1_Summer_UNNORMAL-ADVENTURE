@@ -1,7 +1,7 @@
 # UNNORMAL-ADVENTURE
 - HALゲーム学科・三校合同コンテスト作品（一年前期）🏆技術力賞
 - 2Dスクロールアクション
-- Unity Visual Scripting使用<br><br>
+- Unity Visual Scripting使用<br>
 ## 🎮 操作方法
 **メニューでの操作**<br>
 - ↑ / ↓ ：　選択する<br>
@@ -12,7 +12,7 @@
 - Shift 長押し　＋　← / → ：　走る  
 - Space：　ジャンプ  
 - Z キー　：投げ攻撃  
-- X キー　：石の種類を切り替え<br><br>
+- X キー　：石の種類を切り替え<br>
 ## 🎥 ビデオ
 - [▶動画リンク](https://streamable.com/8comf5)
 ## 📷 スクリーンショット
