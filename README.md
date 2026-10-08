@@ -16,5 +16,5 @@
 ## 🎥 ビデオ
 - [動画リンク](https://streamable.com/8comf5)
 ## 📷 スクリーンショット
-<img width="373" height="210" alt="スクリーンショット 2026-10-07 140301" src="https://github.com/user-attachments/assets/d5aba6b5-ca2a-440e-8133-b4a91ac03d44" />
-<img width="373" height="210" alt="スクリーンショット 2026-10-07 140404" src="https://github.com/user-attachments/assets/93ec2cd0-e0ab-438e-915f-efcf302a4be2" />
+<img width="455" height="265" alt="スクリーンショット 2026-10-07 140301" src="https://github.com/user-attachments/assets/d5aba6b5-ca2a-440e-8133-b4a91ac03d44" />
+<img width="455" height="265" alt="スクリーンショット 2026-10-07 140404" src="https://github.com/user-attachments/assets/93ec2cd0-e0ab-438e-915f-efcf302a4be2" />
