@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: LadderTopController
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-499.0,"y":-298.0},"guid":"905bb39b-90d4-4b5b-80b6-95caa470d03b","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-509.0,"y":-149.0},"guid":"85355198-a61a-4280-8c38-9d00bab6555b","$version":"A","$type":"Unity.VisualScripting.Update","$id":"11"},{"defaultValues":{},"position":{"x":-293.0,"y":-150.0},"guid":"b801a514-ede3-42f2-82ac-09583251d48a","$version":"A","$type":"Unity.VisualScripting.If","$id":"13"},{"specifyFallback":false,"kind":"Application","defaultValues":{"name":{"$content":"LadderTopTriggerOn","$type":"System.String"}},"position":{"x":-405.0,"y":-41.0},"guid":"be44bffe-9f92-4bb7-8be4-aba55cd3996c","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"15"},{"chainable":false,"member":{"name":"isTrigger","parameterTypes":null,"targetType":"UnityEngine.BoxCollider2D","targetTypeName":"UnityEngine.BoxCollider2D","$version":"A"},"defaultValues":{"target":null,"input":{"$content":true,"$type":"System.Boolean"}},"position":{"x":-87.0,"y":-151.0},"guid":"aedb4c36-ba1a-4791-acad-51a5fa8389ee","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"17"},{"chainable":false,"member":{"name":"isTrigger","parameterTypes":null,"targetType":"UnityEngine.BoxCollider2D","targetTypeName":"UnityEngine.BoxCollider2D","$version":"A"},"defaultValues":{"target":null,"input":{"$content":false,"$type":"System.Boolean"}},"position":{"x":-85.0,"y":7.0},"guid":"174c84a0-5b2a-4a2f-980b-505f623ab649","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"20"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"c64e64f1-4c14-4400-ba05-eaaff31faa55","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"ifTrue","destinationUnit":{"$ref":"17"},"destinationKey":"assign","guid":"15ba8a03-7439-49ee-9a13-4f4ffaf7d346","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"ifFalse","destinationUnit":{"$ref":"20"},"destinationKey":"assign","guid":"207e6b4e-bdd6-49eb-bcdd-78c502ef3c11","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"13"},"destinationKey":"condition","guid":"2c40b5e9-9f91-452a-b560-088b0470e9bb","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
